@@ -52,7 +52,7 @@ python metadataextractor.py
 
 ## Input:
 ```bash
-Enter the path of the file to analyze: C:\Users\User\Documents\example.docx
+python metadataextractor.py C:\Users\User\Documents\example.docx
 ```
 ## Output:
 ```bash
