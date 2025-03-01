@@ -135,6 +135,6 @@ if __name__ == "__main__":
     if len(sys.argv) > 1:
         file_path = sys.argv[1]
     else:
-        file_path = input("Enter the path of the file to analyze (or drag and drop): ").strip().strip('"')
+        file_path = input("Enter the path of the file to analyze: ").strip().strip('"')
     
     analyze_file(file_path)
